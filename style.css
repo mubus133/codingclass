@@ -1,0 +1,9 @@
+body{
+    background-color: magenta;background-image: url(Capture.PNG);
+}
+button{
+    border: none;
+    padding: 5px 13px;
+    border-radius: 4px;
+
+}
